@@ -3,6 +3,8 @@ The is repo will contain all the build, scripts and params needed to build your 
 
 # Components
 
+[![](http://img.youtube.com/vi/bsiZ6G9d1Ag/0.jpg)](http://www.youtube.com/watch?v=bsiZ6G9d1Ag "")
+
 These are all the components you will need, this is not a exhaustive list, general consumables are not included (such as zip ties and heat shrink). For the most part similar alternatives can be used but motors and props should exactly match for the Lynchpin PIDs and mixer to be used. Likewise a drone of identical layout but different scale will need a new mixer.
 
 * Flight controller - [Cube Orange](https://cubepilot.org/#/cube/features)
@@ -53,3 +55,24 @@ The base plate is designed for laser cutting, any material of about 3mm thicknes
 * [Base - DXF](https://github.com/IamPete1/Lynchpin/blob/main/base%20plate.dxf)
 * [Base - STL](https://github.com/IamPete1/Lynchpin/blob/main/STLs/Base%20Plate.stl)
 
+# Building the frame
+
+[![](http://img.youtube.com/vi/Yiew8CDSbIk/0.jpg)](http://www.youtube.com/watch?v=Yiew8CDSbIk "")
+
+# Wiring
+
+[![](http://img.youtube.com/vi/npzUJ9enRJU/0.jpg)](http://www.youtube.com/watch?v=npzUJ9enRJU "")
+
+[Cube Pinouts](https://docs.cubepilot.org/user-guides/autopilot/the-cube-module-overview)
+
+[Flashing the ESP8266 for WiFi telemetry](https://ardupilot.org/copter/docs/common-esp8266-telemetry.html)
+
+Close up pictures:
+
+![](https://github.com/IamPete1/Lynchpin/blob/main/Wireing%20diagram.jpg)
+
+![](https://github.com/IamPete1/Lynchpin/blob/main/front.jpg)
+
+![](https://github.com/IamPete1/Lynchpin/blob/main/left%20side.jpg)
+
+![](https://github.com/IamPete1/Lynchpin/blob/main/right%20side.jpg)
