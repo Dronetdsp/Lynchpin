@@ -76,3 +76,9 @@ Close up pictures:
 ![](https://github.com/IamPete1/Lynchpin/blob/main/left%20side.jpg)
 
 ![](https://github.com/IamPete1/Lynchpin/blob/main/right%20side.jpg)
+
+# ArduPilot setup
+
+ArduPilot setup is much like a normal copter. Param set [here](https://github.com/IamPete1/Lynchpin/blob/main/Lynchpin%20CubeOrange.param). You will also need a [lua script](https://github.com/IamPete1/Lynchpin/blob/main/Motors_6DoF_LynchPin.lua) to tell AP the location and directions of each motor. Optionally an [additional script](https://github.com/IamPete1/Lynchpin/tree/main/scripts) can be added to give control over the roll and pitch axis.
+
+[![](http://img.youtube.com/vi/iq5y_lpEIGQ/0.jpg)](http://www.youtube.com/watch?v=iq5y_lpEIGQ "")
