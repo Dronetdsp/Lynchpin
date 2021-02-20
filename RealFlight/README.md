@@ -1,6 +1,6 @@
 # Setting up RealFlight
 
-
+[![](http://img.youtube.com/vi/tpmusxfs8g0/0.jpg)](http://www.youtube.com/watch?v=tpmusxfs8g0 "")
 
 More general instructions for using RealFlight with ArduPilot [here](https://ardupilot.org/dev/docs/sitl-with-realflight.html).
 
