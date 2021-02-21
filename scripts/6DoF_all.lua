@@ -46,9 +46,8 @@ function update() -- this is the loop which periodically runs
 
   if not active and current_active then
     -- Just armed or removed E-stop
-    -- set offsets to current attitude
-    roll = math.deg(ahrs:get_roll())
-    pitch = math.deg(ahrs:get_pitch())
+    roll = 0
+    pitch = 0
     attitude_control:set_offset_roll_pitch(roll,pitch)
 
     gcs:send_text(0, string.format("Set Offsets Roll: %0.1f, Pitch: %0.1f, %s: Speed %0.2f",roll,pitch,axis,speed))
